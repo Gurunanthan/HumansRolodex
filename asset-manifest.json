@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gurunanthan/HumansRolodex/static/css/main.8d45b7dc.css",
+    "main.js": "/Gurunanthan/HumansRolodex/static/js/main.38f1764f.js",
+    "static/js/787.f1333149.chunk.js": "/Gurunanthan/HumansRolodex/static/js/787.f1333149.chunk.js",
+    "index.html": "/Gurunanthan/HumansRolodex/index.html",
+    "main.8d45b7dc.css.map": "/Gurunanthan/HumansRolodex/static/css/main.8d45b7dc.css.map",
+    "main.38f1764f.js.map": "/Gurunanthan/HumansRolodex/static/js/main.38f1764f.js.map",
+    "787.f1333149.chunk.js.map": "/Gurunanthan/HumansRolodex/static/js/787.f1333149.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d45b7dc.css",
+    "static/js/main.38f1764f.js"
+  ]
+}
